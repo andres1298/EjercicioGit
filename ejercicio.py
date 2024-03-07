@@ -7,7 +7,7 @@ lr = '\u2518'
 
 
 # Acá debe colocar su nombre! Luego ejecute el programa para ver el resultado
-name = "Andres Bonilla"
+name = "Luis Dávila"
 
 
 width = len(name) + 4
